@@ -34,3 +34,5 @@ VALUES
 ('Lip Butter Balm', 'Summer Fridays', 99.90, 'skincare', 14),
 ('Hair Strengthening Oil', 'Olaplex', 159.90, 'cabelos', 45),
 ('Lash Slick Mascara', 'Glossier', 119.90, 'maquiagem', 55);
+
+SELECT * FROM produtos;
