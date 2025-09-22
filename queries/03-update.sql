@@ -1,1 +1,12 @@
+UPDATE produtos
+SET preco = preco * 0.8
+WHERE categoria = 'skincare';
 
+
+UPDATE produtos 
+SET preco = preco * 1.15
+WHERE marca = 'Glossier';
+
+UPDATE produtos
+SET preco = preco * 0.9
+WHERE estoque > 100;
