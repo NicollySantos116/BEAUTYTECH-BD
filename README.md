@@ -20,5 +20,4 @@ Projeto para gerenciar o catálogo de produtos da startup BeautyTech, que vende 
 3. Execute atualizações e exclusões conforme necessidade.
 
 ---
-
 Projeto para facilitar o gerenciamento do catálogo de cosméticos da BeautyTech.
