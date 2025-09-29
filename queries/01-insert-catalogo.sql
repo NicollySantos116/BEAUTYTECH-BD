@@ -2,6 +2,7 @@ CREATE DATABASE beautytechdb;
 
 \c beautytechdb 
 
+-- SERIAL = INT AUTO INCREMENT
 CREATE TABLE produtos (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
