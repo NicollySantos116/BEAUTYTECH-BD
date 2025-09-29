@@ -9,7 +9,7 @@ Projeto para gerenciar o catálogo de produtos da startup BeautyTech, que vende 
 
 ## Funcionalidades
 
-- Inserção manual e via IA de produtos  
+- Inserção manual
 - Atualização de preços e estoque, incluindo promoções  
 - Remoção de produtos conforme estoque e preço
 
